@@ -1,0 +1,6 @@
+projectKey=26041_Team7JavaAngularProject_OFRS
+serverUrl=http://172.27.12.78:8000
+serverVersion=7.9.6.41879
+dashboardUrl=http://172.27.12.78:8000/dashboard?id=26041_Team7JavaAngularProject_OFRS
+ceTaskId=AYCTVO8o0_C1AJujt_Ze
+ceTaskUrl=http://172.27.12.78:8000/api/ce/task?id=AYCTVO8o0_C1AJujt_Ze
